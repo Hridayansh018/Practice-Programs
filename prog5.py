@@ -4,7 +4,7 @@ mylist = [1,2,3,4,5,6,7,8,9,10] # Integer list
 print(mylist)
 mylist = [1,"Yoo",4.32] # Mixed data type
 print(mylist)
-mylist = ["mouse",[1,2,3,4],["a"]]
+mylist = ["mouse",[1,2,3,4],["a"]] # Nested list
 print(mylist)
 
 # Appending and Extending list
