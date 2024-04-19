@@ -29,9 +29,7 @@ accessing sub-string from a given string.
 
 9. - Write a Python program to convert temperatures to and from Celsius, 
 Fahrenheit. 
-```
-[ Formula: c = (f-32)(5/9)]
-```
+`[ Formula: c = (f-32)(5/9)]`
 [CODE](https://github.com/Hridayansh018/Practice-Programs/blob/main/prog9.py)
 
 
